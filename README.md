@@ -1,3 +1,4 @@
+
 # Fake News Block File
 
 ## Purpose
@@ -8,11 +9,14 @@ Basically, the criteria here is only outlets that post verifiably false stories.
 
 ## Usage
 
-In pihole you simply log onto the admin interface and copy/ paste the direct URL to blockfile.txt into the block lists and click, "Add", there is nothing more to do.
+In pihole you simply log onto the admin interface and copy/ paste the direct URL to blockfile.txt into the block lists and click, "Add", there is nothing more to do. The URL is below.
 
 Other software like Adblock Plus or compatible programs might allow you to install custom lists as well and you will have to do the same in these programs in their configuration.
 
+[Fake News Blocklist URL](https://raw.githubusercontent.com/redpillx2/fake-news-blocker/main/blockfile.txt)
+
 ## Additions To The List
 
-Submit them in the appropriate section of this site and they will be reviewed and possibly added to the list. Try to link to proof. I have no intent to frequently update the list, and it's mostly to get rid of the most aggregious offenders. However, periodically, I will. 
+Submit them in the **ISSUES** section of this site and they will be reviewed and possibly added to the list. Try to link to proof. I have no intent to frequently update the list, and it's mostly to get rid of the most aggregious offenders. However, periodically, I will. 
+
 
