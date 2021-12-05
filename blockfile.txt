@@ -2,7 +2,7 @@
 # You're only here if you completely suck!
 0.0.0.0 www.msnbc.com
 0.0.0.0 www.washingtontimes.com
-0.0.0.0 nytimes.com
+0.0.0.0 www.nytimes.com
 0.0.0.0 www.cnn.com
 0.0.0.0 slate.com
 0.0.0.0 www.motherjones.com
