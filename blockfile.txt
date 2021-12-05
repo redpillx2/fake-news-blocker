@@ -1,0 +1,15 @@
+0.0.0.0 msnbc.com
+0.0.0.0 washingtontimes.com
+0.0.0.0 newyorktimes.com
+0.0.0.0 cnn.com
+0.0.0.0 slate.com
+0.0.0.0 motherjones.com
+0.0.0.0 huffingtonpost.com
+0.0.0.0 theatlantic.com
+0.0.0.0 usatoday.com
+0.0.0.0 newsweek.com
+0.0.0.0 vanityfair.com
+0.0.0.0 politifact.com
+0.0.0.0 snopes.com
+0.0.0.0 forbes.com
+0.0.0.0 salon.com
