@@ -1,4 +1,10 @@
 # Redpillx2s Fake News Block List
+#
+# These are all outlets that have reported completely
+# false stories or invented them out of thin air.
+#
+# Normal mistakes in reporting or errors, or opinions in those sections do not count.
+#
 # You're only here if you completely suck!
 0.0.0.0 www.msnbc.com
 0.0.0.0 www.washingtontimes.com
@@ -15,3 +21,5 @@
 0.0.0.0 www.snopes.com
 0.0.0.0 www.forbes.com
 0.0.0.0 salon.com
+0.0.0.0 www.washingtonpost.com
+0.0.0.0 www.theguardian.com
