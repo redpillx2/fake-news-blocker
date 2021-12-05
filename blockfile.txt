@@ -1,8 +1,10 @@
+# Redpillx2s Fake News Block List
+# You're only here if you completely suck!
 0.0.0.0 www.msnbc.com
 0.0.0.0 www.washingtontimes.com
-0.0.0.0 www.newyorktimes.com
+0.0.0.0 nytimes.com
 0.0.0.0 www.cnn.com
-0.0.0.0 www.slate.com
+0.0.0.0 slate.com
 0.0.0.0 www.motherjones.com
 0.0.0.0 www.huffingtonpost.com
 0.0.0.0 www.theatlantic.com
@@ -12,4 +14,4 @@
 0.0.0.0 www.politifact.com
 0.0.0.0 www.snopes.com
 0.0.0.0 www.forbes.com
-0.0.0.0 www.salon.com
+0.0.0.0 salon.com
