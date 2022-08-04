@@ -5,7 +5,7 @@
 
 If you're tired of seeing absolutely fake news and trying to guess whether or not these sources can lie to you or not this is your solution. Got kids and don't want their brains full of lies? That's what this is for.
 
-Basically, the criteria here is only outlets that post verifiably false stories. This is why Huffington Post might be on this list, but Fox News may not, etc. It's not about who's opinion you don't like or even that I don't like.
+Basically, the criteria here is only outlets that post verifiably false stories. This is why Huffington Post might be on this list, but Fox News may not, etc. It's not about who's opinion you don't like or even that I don't like. Fact checker sites get added to this list too as many of them either fact check in a misleading way or do not present the whole context of the story.
 
 ## Usage
 
