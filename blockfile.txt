@@ -24,3 +24,4 @@
 0.0.0.0 www.washingtonpost.com
 0.0.0.0 www.theguardian.com
 0.0.0.0 factcheck.afp.com
+0.0.0.0 leadstories.com
